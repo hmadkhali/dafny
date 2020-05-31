@@ -1,0 +1,6 @@
+commit c65545cdd16144d9aa9751cce9a0ce904089126e (HEAD -> master)
+Author: “Hatim <“hmadkhal@ucsc.edu”>
+Date:   Sun May 31 12:24:01 2020 -0700
+
+    First comment dafny
+
